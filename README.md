@@ -1,4 +1,4 @@
-# Development-of-DBNN-for-Robot-Object-Recognition-and-Grasping
+# DBNN-for-Robot-Object-Recognition-and-Grasping
 Development of Deep Belief Neural Network (DBNN) for Robot Object Recognition and Grasping
 
 Reference Paper: Pick-place of dynamic objects by robot manipulator based on deep learning and easy user interface teaching systems
